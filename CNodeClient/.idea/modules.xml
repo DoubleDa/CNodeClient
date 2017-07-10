@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CNodeClient.iml" filepath="$PROJECT_DIR$/CNodeClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_db/lib_db.iml" filepath="$PROJECT_DIR$/lib_db/lib_db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_net/lib_net.iml" filepath="$PROJECT_DIR$/lib_net/lib_net.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_rv/lib_rv.iml" filepath="$PROJECT_DIR$/lib_rv/lib_rv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_utils/lib_utils.iml" filepath="$PROJECT_DIR$/lib_utils/lib_utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_view/lib_view.iml" filepath="$PROJECT_DIR$/lib_view/lib_view.iml" />
+    </modules>
+  </component>
+</project>
